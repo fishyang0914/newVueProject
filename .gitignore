@@ -1,10 +1,5 @@
 node_modules
 dist
-tmp
-ppt
-app
 .vscode
-*.lnk
-/.sass-cache
 .DS_Store
-package-lock
+package-lock.json
