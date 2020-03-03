@@ -39,8 +39,6 @@
   "dependencies": {
     "@babel/polyfill": "^7.0.0",
     "axios": "^0.18.0",
-    "es6-object-assign": "^1.1.0",
-    "es6-promise": "^4.2.5",
     "js-cookie": "^2.2.0",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1",

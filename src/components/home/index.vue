@@ -23,6 +23,12 @@ export default {
             name: 'fish'
         }
         this.setUserInfo(userInfo)
+
+        const a = Object.assign({}, userInfo)
+        console.log(a)
+
+        const b = new Promise((resolve, reject) => resolve(1))
+        console.log(b)
     }
 }
 </script>
