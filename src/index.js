@@ -1,10 +1,10 @@
 import '@babel/polyfill';
 import Vue from 'vue'
 import App from 'App';
-import store from './store';
-import router from './route';
-import VueCookie from "./lib/VueCookie.js";
-import './scss/global/global.scss';
+import store from 'store';
+import router from 'route';
+import VueCookie from "lib/VueCookie.js";
+import 'scss/global/global.scss';
 
 Vue.use(VueCookie);
 

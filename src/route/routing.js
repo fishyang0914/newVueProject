@@ -1,6 +1,6 @@
-import home from '../components/Home';
-import about from '../components/About';
-import contact from '../components/Contact';
+import home from 'components/Home';
+import about from 'components/About';
+import contact from 'components/Contact';
 
 export default {
     routes: [
