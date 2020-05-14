@@ -60,6 +60,7 @@ const config = {
             path.resolve('src'),
             path.resolve('src/images'),
             path.resolve('src/components'),
+            path.resolve('src/views'),
             path.resolve('node_modules')
         ],
         extensions: ['.js', '.vue']

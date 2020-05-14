@@ -1,6 +1,6 @@
 <script>
-import headerCom from 'components/_common/header'
-import footerCom from 'components/_common/footer'
+import headerCom from 'components/header'
+import footerCom from 'components/footer'
 export default {
     components: {
         headerCom,
